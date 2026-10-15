@@ -1,0 +1,14 @@
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.AssemblyInfoInputs.cache
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.AssemblyInfo.cs
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.csproj.CoreCompileInputs.cache
+Z:\PPRG\Tydzien3\Zadanie03\bin\Debug\net10.0\Zadanie03.exe
+Z:\PPRG\Tydzien3\Zadanie03\bin\Debug\net10.0\Zadanie03.deps.json
+Z:\PPRG\Tydzien3\Zadanie03\bin\Debug\net10.0\Zadanie03.runtimeconfig.json
+Z:\PPRG\Tydzien3\Zadanie03\bin\Debug\net10.0\Zadanie03.dll
+Z:\PPRG\Tydzien3\Zadanie03\bin\Debug\net10.0\Zadanie03.pdb
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.dll
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\refint\Zadanie03.dll
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.pdb
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\Zadanie03.genruntimeconfig.cache
+Z:\PPRG\Tydzien3\Zadanie03\obj\Debug\net10.0\ref\Zadanie03.dll
